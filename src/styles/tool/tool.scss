@@ -28,16 +28,16 @@
         font-weight: 600;
         font-size: 22px;
         color: #FFFFFF;
-        background: #2435A1;
+        background: #005618;
         border-radius: 16px;
-        border: 1px solid #2435A1;
+        border: 1px solid #005618;
         cursor: pointer;
         transition: .4s;
 
         &:hover {
           transform: scale(1.1);
           background: transparent;
-          color: #2435A1;
+          color: #005618;
         }
       }
     }
@@ -60,7 +60,7 @@
         width: 70%;
         height: 500px;
         border-radius: 20px;
-        border: 2px solid #1100D9;
+        border: 2px solid #005618;
         margin-top: 70px;
         background: #fff;
         padding: 20px 80px;
@@ -146,9 +146,9 @@
     font-weight: 600;
     font-size: 17px;
     color: #FFFFFF;
-    background: #2435A1;
+    background: #005618;
     border-radius: 16px;
-    border: 1px solid #2435A1;
+    border: 1px solid #005618;
     cursor: pointer;
     transition: .4s;
   }

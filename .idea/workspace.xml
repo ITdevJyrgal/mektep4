@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e01f996e-7fd5-498c-ae16-81fea3ba377f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/main/Spiner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Spiner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/home/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/heroImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/heroImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Error/error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Error/error.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Hero/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Info/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Info/info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/program/program.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/program/program.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/tool/tool.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tool/tool.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29wCQVKER1A2NwLaLu4EA6QZRlN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e01f996e-7fd5-498c-ae16-81fea3ba377f" name="Changes" comment="" />
+      <created>1654014745082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654014745082</updated>
+      <workItem from="1654014747393" duration="158000" />
+      <workItem from="1654023798296" duration="478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

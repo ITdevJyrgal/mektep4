@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="container">
                 <div className="hero-general">
                     <div>
-                        <h1 className="hero-general__title" style={{fontSize: media(30, 58), marginBottom: media(20, 60)}}>Талып Акун атындагы орто мектеп</h1>
+                        <h1 className="hero-general__title" style={{fontSize: media(30, 50), marginBottom: media(20, 60)}}>Зиямидин Каримбеков атындагы орто мектеби </h1>
                         <p className="hero-general__desc" style={{fontSize: media(15, 20)}}>Биздин эң сонун мектеп менен таанышууну каалагандардын
                             бардыгын тосуп алууга
                             кубанычтабыз!</p>
