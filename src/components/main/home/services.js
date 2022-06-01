@@ -10,8 +10,10 @@ const Services = () => {
                 <h3>Байланышуу учун</h3>
                 <div className="services__general">
                     <div className="services__general--contact">
-                        <a href="mailto:tnizaev@mail.ru"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-envelope"/> tnizaev@mail.ru</span></a>
-                        <a href="tel:0778007977"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-phone"/> 0778007977</span></a>
+                        <a href="mailto:tnizaev@mail.ru"><span style={{fontSize: media(15, 20)}}><i
+                            className="fa-solid fa-envelope"/> tnizaev@mail.ru</span></a>
+                        <a href="https://t.me/0778007977"><span style={{fontSize: media(15, 20)}}><i className="fab fa-telegram"/> 0778007977</span></a>
+                        <a href="https://wa.me/0778007977"><span style={{fontSize: media(15, 20)}}><i className="fab fa-whatsapp"/> 0778007977</span></a>
                         <a href="#"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-location-dot"/> Ош облусу Чоң -Алай району, Жаш -Тилек
 көчөсү 163
 </span></a>
