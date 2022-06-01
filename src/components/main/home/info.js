@@ -20,7 +20,7 @@ const Info = () => {
                     </div>
                     <div className="info-general__block2">
                         <h1>Мектеп тууралуу маалымат</h1>
-                        <p>СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №1.</p>
+                        {/*<p>СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №1.</p>*/}
                         <div className="info-general__block2__gen">
                             <div className="info-general__block2__gen__cer"
                                  style={{width: media(70, 100), height: media(70, 100)}}>
