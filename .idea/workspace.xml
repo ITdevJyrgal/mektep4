@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e01f996e-7fd5-498c-ae16-81fea3ba377f" name="Changes" comment="" />
+    <list default="true" id="e01f996e-7fd5-498c-ae16-81fea3ba377f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/main/home/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/info.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
       <workItem from="1654061532822" duration="37000" />
       <workItem from="1654067812829" duration="2022000" />
       <workItem from="1654074300640" duration="151000" />
+      <workItem from="1654074583342" duration="309000" />
     </task>
     <servers />
   </component>
