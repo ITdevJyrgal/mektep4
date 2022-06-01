@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e01f996e-7fd5-498c-ae16-81fea3ba377f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/main/Spiner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Spiner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main/home/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/footer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/heroImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/heroImage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Error/error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Error/error.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Header/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Hero/hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Info/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Info/info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/program/program.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/program/program.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/tool/tool.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tool/tool.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/home/Teachers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/Teachers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/home/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/home/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/home/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/school.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/school.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,7 +52,10 @@
       <option name="presentableId" value="Default" />
       <updated>1654014745082</updated>
       <workItem from="1654014747393" duration="158000" />
-      <workItem from="1654023798296" duration="478000" />
+      <workItem from="1654023798296" duration="596000" />
+      <workItem from="1654061393516" duration="79000" />
+      <workItem from="1654061532822" duration="37000" />
+      <workItem from="1654067812829" duration="1791000" />
     </task>
     <servers />
   </component>

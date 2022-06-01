@@ -13,22 +13,22 @@ const Footer = () => {
                         <img src={logo} alt=""/>
                         <div className="footer-general__contact" style={{paddingTop: media(10, 40)}}>
                             <span><i className="fa-solid fa-phone"/></span>
-                            <a href="tel:0 (999) 99 99 99">0 (999) 99 99 99</a>
+                            <a href="tel: 0778007977"> 0778007977</a>
                         </div>
                     </div>
                     <div className="footer-general__center">
-                        <a href="#">balanchaevbalancha@gmail.com</a>
+                        <a href="mailto:tnizaev@mail.ru">tnizaev@mail.ru</a>
                         {/*<div>*/}
                         {/*    <h1>Developed at</h1>*/}
                         {/*    <img src={motion} alt=""/>*/}
                         {/*    <h1>MOTION WEB LLC</h1>*/}
                         {/*</div>*/}
                     </div>
-                    <div className="footer-general__seti">
-                        <h1>Соц тармактар</h1>
-                        <span><i className="fab fa-instagram"/></span>
-                        <span><i className="fab fa-whatsapp"/></span>
-                    </div>
+                    {/*<div className="footer-general__seti">*/}
+                    {/*    <h1>Соц тармактар</h1>*/}
+                    {/*    <span><i className="fab fa-instagram"/></span>*/}
+                    {/*    <span><i className="fab fa-whatsapp"/></span>*/}
+                    {/*</div>*/}
                 </div>
 
                 <div className="footer-general2">

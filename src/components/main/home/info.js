@@ -27,7 +27,7 @@ const Info = () => {
                             </div>
                             <div className="info-general__block2__gen__item">
                                 <h2>Учурдагы окуучулар</h2>
-                                <h3>450</h3>
+                                <h3>342</h3>
                             </div>
                         </div>
                         <div className="info-general__block2__gen">
@@ -36,7 +36,7 @@ const Info = () => {
                             </div>
                             <div className="info-general__block2__gen__item">
                                 <h2>Жалпы китептердин саны</h2>
-                                <h3>342</h3>
+                                <h3>3863</h3>
                             </div>
                         </div>
                         <div className="info-general__block2__gen">
@@ -45,7 +45,7 @@ const Info = () => {
                             </div>
                             <div className="info-general__block2__gen__item">
                                 <h2>Учурдагы мугалимдер</h2>
-                                <h3>32</h3>
+                                <h3>40</h3>
                             </div>
                         </div>
                     </div>
