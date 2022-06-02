@@ -18,7 +18,7 @@ const Admin = () => {
         <section id="admin" style={{minHeight: "75vh"}}>
             <div className="container">
                 <div className="admin-general">
-                    <h1 className="admin-general__title">Адмимнистрация</h1>
+                    <h1 className="admin-general__title">Администрация</h1>
                 </div>
                 {
                     admin.length > 0 ?
